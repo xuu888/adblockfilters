@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: 0 */8 * * *
 
+permissions:
+  contents: write
+
 env:
   TZ: Asia/Shanghai
   SINGBOX_VERSION: 1.12.12
