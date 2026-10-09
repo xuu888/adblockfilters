@@ -10,7 +10,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/09 13:38:46
+#!date=2026/10/09 23:10:52
 #!support=5283
 #!proxy-select=REJECT
 #
@@ -1187,7 +1187,6 @@
 .trk.compair.com.cn
 .strack.concur.cn
 .track.concur.cn
-.consultarenvio.click
 .cu-cn-north00001.gala.convection.cn
 .cu-cn-north00002.gala.convection.cn
 .coocaatv.com
@@ -1366,6 +1365,7 @@
 .events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
+.metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 .engine.dcad01.com
 .xcx.dcad01.com
 .ddapp.cn
@@ -1662,6 +1662,7 @@
 .flash.cn
 .flsfzr.cn
 .flstudiochina.com
+.api-flow.flyme.cn
 .bro.flyme.cn
 .t-e.flyme.cn
 .t-flow.flyme.cn
@@ -1790,6 +1791,7 @@
 .sdk-cache.video.ptqy.gitv.tv
 .sdk.ptqy.gitv.tv
 .static.ptqy.gitv.tv
+.t7z.cupid.ptqy.gitv.tv
 .time.video.ptqy.gitv.tv
 .50m.gkcyc.com
 .gl0r6d2uyy.com
@@ -1919,7 +1921,6 @@
 .h45pmx1.cn
 .bm.h576.com
 .h57vpulpu.com
-.h6295.com
 .h7ima6w5k.com
 .images.newsletter.hach.com.cn
 .hacker.com.cn
@@ -1935,6 +1936,7 @@
 .2.haoxue360.com
 .haozhuangji.com
 .download.haozip.com
+.log.dc.cn.happyelements.com
 .hapying.com
 .hashnest.com
 .a.hbf23.cn
@@ -2628,7 +2630,6 @@
 .go.eml.l-com.cn
 .data.adobe.l-god.cn
 .l3j3glzp6g.com
-.lady177.com
 .lop.lamimi.cn
 .brc.languageclass.cc
 .zq.lansedir.com
@@ -2917,8 +2918,6 @@
 .mintegral.com
 .insight.mintel.com
 .wm.mipcdn.com
-.misecanjesbac.click
-.misicanjesbac.click
 .gg.miued.com
 .abroad.api.comm.intl.miui.com
 .activity.browser.intl.miui.com
@@ -3408,6 +3407,7 @@
 .e.qq.com
 .file.daihuo.qq.com
 .fodder.qq.com
+.fusion.qq.com
 .fw.qq.com
 .gatherer.m.qq.com
 .gdt.qq.com
@@ -4115,6 +4115,7 @@
 .answers.teradata.com.cn
 .akamai-apigateway-gio-analytics.tesla.cn
 .akamai-apigateway-sentry.tesla.cn
+.testin.cn
 .tgymhwt.cn
 .th7.cn
 .advert.api.thejoyrun.com
@@ -4129,6 +4130,7 @@
 .thinkingdata.cn
 .trk.thomas-pump.cn
 .trail.thomsonreuters.cn
+.ad.thsi.cn
 .tracking.mail.ti.com.cn
 .tianji520.cn
 .tianjimedia.com
@@ -4209,7 +4211,6 @@
 .ta.trs.cn
 .trustutn.org
 .ts166.net
-.ttdbh.com
 .www.ttyyuuoo.com
 .realtime-logger.production-public.tubi.io
 .tudou.com
@@ -4710,7 +4711,6 @@
 .analytics.95516.com.wscdns.com
 .wsds.cn
 .cdn-ad.wtzw.com
-.cdn-new-ad.wtzw.com
 .wukongtongji.com
 .wumii.cn
 .wumii.com
@@ -4791,6 +4791,7 @@
 .api.xmpush.xiaomi.com
 .api.xmpush.global.xiaomi.com
 .appstore.cdn.pandora.xiaomi.com
+.appstore.pandora.xiaomi.com
 .awssgp0-files.fds.api.xiaomi.com
 .bigdata-lbs-pri-c3.alb.xiaomi.com
 .bss.pandora.xiaomi.com
@@ -5083,7 +5084,6 @@
 .yvdb.cn
 .yw800.com.cn
 .ywkkmze.cn
-.adsclick.yx.js.cn
 .qiniuyunxz.yxflzs.com
 .ad.a.yximgs.com
 .ali-ad.a.yximgs.com

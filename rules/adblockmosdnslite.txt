@@ -3,8 +3,8 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261009133845
-# Last modified: 2026/10/09 13:38:45
+# Version: 20261009231052
+# Last modified: 2026/10/09 23:10:52
 # Blocked domains: 5283
 #
 kwflvcdn.000dn.com
@@ -1180,7 +1180,6 @@ iadsdk.apple.com.akadns.net
 trk.compair.com.cn
 strack.concur.cn
 track.concur.cn
-consultarenvio.click
 cu-cn-north00001.gala.convection.cn
 cu-cn-north00002.gala.convection.cn
 coocaatv.com
@@ -1359,6 +1358,7 @@ events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 grs-dbankcloud-com-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
+metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 engine.dcad01.com
 xcx.dcad01.com
 ddapp.cn
@@ -1655,6 +1655,7 @@ datareport.fkw.com
 flash.cn
 flsfzr.cn
 flstudiochina.com
+api-flow.flyme.cn
 bro.flyme.cn
 t-e.flyme.cn
 t-flow.flyme.cn
@@ -1783,6 +1784,7 @@ puma-api.ptqy.gitv.tv
 sdk-cache.video.ptqy.gitv.tv
 sdk.ptqy.gitv.tv
 static.ptqy.gitv.tv
+t7z.cupid.ptqy.gitv.tv
 time.video.ptqy.gitv.tv
 50m.gkcyc.com
 gl0r6d2uyy.com
@@ -1912,7 +1914,6 @@ gzzkjdam.cn
 h45pmx1.cn
 bm.h576.com
 h57vpulpu.com
-h6295.com
 h7ima6w5k.com
 images.newsletter.hach.com.cn
 hacker.com.cn
@@ -1928,6 +1929,7 @@ cdn.haocaa.com
 2.haoxue360.com
 haozhuangji.com
 download.haozip.com
+log.dc.cn.happyelements.com
 hapying.com
 hashnest.com
 a.hbf23.cn
@@ -2621,7 +2623,6 @@ kzki21j8f6.com
 go.eml.l-com.cn
 data.adobe.l-god.cn
 l3j3glzp6g.com
-lady177.com
 lop.lamimi.cn
 brc.languageclass.cc
 zq.lansedir.com
@@ -2910,8 +2911,6 @@ playable-stats.mindworks-creative.com
 mintegral.com
 insight.mintel.com
 wm.mipcdn.com
-misecanjesbac.click
-misicanjesbac.click
 gg.miued.com
 abroad.api.comm.intl.miui.com
 activity.browser.intl.miui.com
@@ -3401,6 +3400,7 @@ dp3.qq.com
 e.qq.com
 file.daihuo.qq.com
 fodder.qq.com
+fusion.qq.com
 fw.qq.com
 gatherer.m.qq.com
 gdt.qq.com
@@ -4108,6 +4108,7 @@ tepusi888.cn
 answers.teradata.com.cn
 akamai-apigateway-gio-analytics.tesla.cn
 akamai-apigateway-sentry.tesla.cn
+testin.cn
 tgymhwt.cn
 th7.cn
 advert.api.thejoyrun.com
@@ -4122,6 +4123,7 @@ analytics.thinkingcloud.net
 thinkingdata.cn
 trk.thomas-pump.cn
 trail.thomsonreuters.cn
+ad.thsi.cn
 tracking.mail.ti.com.cn
 tianji520.cn
 tianjimedia.com
@@ -4202,7 +4204,6 @@ analysis.tratao.com
 ta.trs.cn
 trustutn.org
 ts166.net
-ttdbh.com
 www.ttyyuuoo.com
 realtime-logger.production-public.tubi.io
 tudou.com
@@ -4703,7 +4704,6 @@ ad.12306.cn.wscdns.com
 analytics.95516.com.wscdns.com
 wsds.cn
 cdn-ad.wtzw.com
-cdn-new-ad.wtzw.com
 wukongtongji.com
 wumii.cn
 wumii.com
@@ -4784,6 +4784,7 @@ api.miui.security.xiaomi.com
 api.xmpush.xiaomi.com
 api.xmpush.global.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
+appstore.pandora.xiaomi.com
 awssgp0-files.fds.api.xiaomi.com
 bigdata-lbs-pri-c3.alb.xiaomi.com
 bss.pandora.xiaomi.com
@@ -5076,7 +5077,6 @@ yur09140og.com
 yvdb.cn
 yw800.com.cn
 ywkkmze.cn
-adsclick.yx.js.cn
 qiniuyunxz.yxflzs.com
 ad.a.yximgs.com
 ali-ad.a.yximgs.com
