@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: h53YmZGOCYiNoprGMXEqag
-! Version: 202610090202
+! Checksum: HT81DuwU9BjQoD0eYoBURQ
+! Version: 202610090522
 ! Title: EasyPrivacy
-! Last modified: 09 Oct 2026 02:02 UTC
+! Last modified: 09 Oct 2026 05:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2890,6 +2890,7 @@
 /wxhawkeye.js
 /wysistat.js
 /x.gif?
+/x0k461/e6c1b/xc9
 /x_track.php?
 /xgemius.js
 /xinhua_webdig.js
@@ -3935,6 +3936,7 @@ omni.soundestlink.com$image
 ||tjk-njk.com^
 ||tkrconnector.com^
 ||tncid.app^
+||tp-em.cc^
 ||trackclicks.info^
 ||trackier.com^
 ||tracking24.net^
@@ -9102,7 +9104,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gigya.com^*/cimp.gif?
 ||giosg.com^*/public/trace/
 ||gitbook.com/v1/integrations/googleanalytics/
-||gkx.gokwik.co^
+||gkx.gokwik.co/gke/
+||gkx.gokwik.co/kp/api/v1/fp/
 ||glam.com/cece/agof/
 ||glam.com/ctagsimgcmd.act?
 ||glam.com/jsadimp.gif?

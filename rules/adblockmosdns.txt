@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdns.txt
-# Version: 20261009101526
-# Last modified: 2026/10/09 10:15:26
-# Blocked domains: 223698
+# Version: 20261009133845
+# Last modified: 2026/10/09 13:38:45
+# Blocked domains: 223737
 #
 0-02.net
 000.pe
@@ -3450,6 +3450,7 @@ vinted.53249236.com
 53f0bbe95a.com
 53h7rxip9.com
 53kf.com
+53vp8cooel2q7m7biv6bunkbzykciivtv.cfd
 54.pl
 540291.lat
 540484935e.com
@@ -6743,6 +6744,7 @@ atr.aclinicafemmes.com.br
 m.aclk.jp
 metrics.aclu.org
 smetrics.aclu.org
+acmaeamakutas.cfd
 tags.acmeaom.com
 lzfgzs.acmedelavie.com
 load.analytics.acmefarmstore.com
@@ -14353,6 +14355,7 @@ try.aloeteva.com
 aloftcracking.com
 aloftriottomato.com
 analytics.aloghesti.com
+alogiansear.com
 sagor.aloha-jewelry.co
 cbfvq.aloha.com
 fine.alohaclub.nl
@@ -25366,6 +25369,7 @@ bdxbtv.icu
 bdxjnlpkkdfok.site
 bdxwfvlszerxbi.com
 ads-i3.xhscdn.com.a.bdydns.com
+bdzezilmnoagu.site
 be-24.ru
 qkinm.be-clinical.com
 be-funk.com
@@ -40828,6 +40832,7 @@ connect.chiropractic.ac.nz
 cpmetrics.chiropracticappointments.com
 tracking.try.chirotech-us.com
 chiselsupwell.shop
+chisledpiecerdhava.cyou
 event.chitai-gorod.ru
 sgtm.chitarrafacile.com
 chitika.com
@@ -43825,6 +43830,7 @@ cobaltsanctionyodel.com
 cobaltwave.cc
 cobaltzinshaven.net
 cga.cobbgrillamerica.com
+cobbinbakie.com
 cobbingcopier.cyou
 cobblercohog.com
 load.ccga.cobblerscove.com
@@ -53175,6 +53181,7 @@ dd9l0474.de
 ddacn6pr5v0tl.cloudfront.net
 vkbvny.ddanzi.com
 ddapp.cn
+ddaqzlpxofnsh.space
 ddb853e3a4.com
 marketing.ddc-cabtech.com
 images.ddc.com
@@ -55409,6 +55416,7 @@ dfrgxsiydjbfj.space
 dfrhgivzjpkil.site
 images.info.dfsco.com
 cdn.dfsdk.com
+dfsgtxubfbmxe.online
 dfslfsdfsdf.shop
 sgtm.dfsteuer.de
 dftoutiao.com
@@ -67870,6 +67878,7 @@ server.eupresley.com
 eupvygwytrdze.online
 eupzmvvsdgvmk.site
 euqoofchikhzy.space
+euqqqdwssrmoh.online
 euqvdiipmkpqt.space
 track.eurasc.org
 tr.news.eureden.com
@@ -69592,6 +69601,7 @@ eyezcure.com
 eyfeknffvosjl.space
 aldideal.eyhjplot.shop
 eyhmhohuflljt.website
+eyhnhgqrdqlrf.space
 eyiccxilrwhpm.site
 eyidtfpkxbbsl.website
 jdei4.eykdata.eu
@@ -76402,6 +76412,7 @@ info.frbservices.org
 frbzojrsotdov.space
 partneri.frcime.cz
 load.sgtm.frcreationshop.com
+frdmvglansmwh.website
 freakads.com
 freakishforgiving.com
 freaksgreed.com
@@ -77143,6 +77154,7 @@ frostgoddess.com
 fr.frostmeister.com
 sentry.frostnerd.com
 frostscanty.com
+frostybinits.cyou
 ss.frostyfuse.com
 ctx.frostyhempco.com
 ss.frostylax.com
@@ -90900,6 +90912,7 @@ o.hmwy.io
 t.hmwy.io
 hmxflflohzzd.com
 hmxg5mhyx.com
+hmy7rthr5emglmymi.rest
 hmymkrsiidpze.online
 hmzxoegngasft.site
 utiq.hna.de
@@ -90947,6 +90960,7 @@ hnwtejxpmyqlk.website
 hnxdbmuemwsty.online
 hnxqtkkcaaifj.online
 hnxxt.net
+hnxxvlwihrvck.website
 hnyishidengbao.com
 hnzjwtcajadzi.space
 hnzxelrflqgjp.online
@@ -92715,6 +92729,7 @@ hpyjmp.com
 hpyopsceaqnbm.site
 hpyrdr.com
 hpzlybjsvphzs.site
+hpznfzzebpe.com
 hpzvitkflstxx.website
 tracking.my.hq.com
 hqazaazwdnxle.site
@@ -103041,6 +103056,7 @@ capi.jlorrainecustomdesigns.com
 jloymapbukmdc.space
 a8clk.jlp-shop.jp
 jlpbymrzollix.space
+jlpghlczoauec.space
 labs.jlplanner.co
 tracking.jlplegal.com
 jlpuzawkaasxh.site
@@ -105252,6 +105268,7 @@ ss.kaffepro.se
 kaffirsshoal.cfd
 pkdzd.kafibody.com
 kafirdecel.store
+kafiribulkin.com
 partner.kafista.cz
 nao.kagane.to
 matomo.kagels-trading.de
@@ -110491,6 +110508,7 @@ laboredlocket.com
 laborex.hu
 data-9599593609.laborjournal.de
 load.capi.labornursemama.com
+laborsjeercounsel.qpon
 gtm.laboticamanipulacao.com.br
 ggl.labotterie.com
 laboureraccomplicepiercing.com
@@ -135799,6 +135817,7 @@ load.gtm.nicelittlethings.de
 load.gtm.nicelittlethings.fr
 load.gtm.nicelittlethings.lu
 load.gtm.nicelittlethings.nl
+nicelyeven.com
 nicelyfrom.com
 nicelylatherrestless.com
 nicelymodulo.com
@@ -136150,6 +136169,7 @@ nimes-olympique.fr
 nimhuemark.com
 analytics.nimi.wiki
 xhwojh.nimikoruni.com
+nimiousfaraonmetusia.cfd
 metric.nimo.tv
 statwup.nimo.tv
 udbdf-v2.nimo.tv
@@ -139936,6 +139956,7 @@ odlospxkipf.com
 odlxepapmasej.website
 odmhljecbnazq.site
 odnaknopka.ru
+odndagqudqzkm.com
 odngvujguenah.space
 odnwadzre.in
 odologyelicit.com
@@ -141674,6 +141695,7 @@ stats.oneilglobaladvisors.com
 ioedpk.oneill.com
 metrics.oneills.co.uk
 sstats.oneilsecurities.com
+oneismkentle.cyou
 onekindmarket.com
 load.ssg.onelabs.one
 sstats.onelambda.com
@@ -142819,6 +142841,7 @@ mdws.oppacu.com
 solutions.oppd.com
 tracking.oppd.com
 oppetlswhmzck.space
+oppidumgirnel.cyou
 gtm.oppiu.com
 ads.oppomobile.com
 adsfs.oppomobile.com
@@ -158941,6 +158964,7 @@ uxtqtg.quattroruote.it
 quaybeware.com
 quaymangleeds.cfd
 autodiscover.ads.qub.ac.uk
+anonymous.qub.ca
 commentaires.qub.ca
 sgtm.qub.nl
 qubble.com
@@ -165515,6 +165539,7 @@ rmpywaamvfwfa.store
 rmqaquvofzwds.space
 rmqgscbitoadp.site
 rmqtqrtxhwilx.store
+rmqyrsrwaezfc.space
 ekggp.rmsbeauty.com
 mbvqq.rmsbeauty.com
 a8cnv.rmsbeauty.jp
@@ -177024,6 +177049,7 @@ sltoyacczmxip.online
 sltraffic.com
 matomo.slub-dresden.de
 piwik.slub-dresden.de
+sludgedskipper.cyou
 sluggedunbeget.top
 smetrics.slugger.com
 lofi.sluggers.com
@@ -177946,6 +177972,7 @@ sneakersowo.pl
 load.stape.sneakerstvatten.se
 ss.sneakerzone.dk
 sneakintriguecasting.com
+sneakkodkod.cfd
 sneakunwanted.com
 sneakwind.com
 sneakyadministration.com
@@ -178586,6 +178613,7 @@ posthog.infra.sohohousedigital.com
 stepup.sohojghor.com
 soholfit.com
 ssrv.sohomod.com
+sohqhwvftwqpg.space
 888.tv.sohu.com
 ads.sohu.com
 api.danmu.tv.sohu.com
@@ -178961,6 +178989,7 @@ solucoesnetempresas.digital
 solucx.com.br
 analytics.soluforce.com
 solumaticsac.com
+solumssacaeharder.qpon
 sst.solundhuse.dk
 piwik.solunic.at
 sentry.solutec.de
@@ -183017,6 +183046,7 @@ stmtag.ru
 stmzzs.com
 gtm.stnicholas.com.br
 stnjgbqwpispt.store
+stnkzuokgblqh.website
 stnrjwub.shop
 app-analysislog.sto.cn
 animo.sto.wiki
@@ -187416,6 +187446,7 @@ talorixatradetrade.de
 talpa-analytics.com
 talpoidaerage.cyou
 talroebnwhbif.space
+talthibnonya.qpon
 smetrics.taltz.com
 talviro-menqari-platform.com
 talvoremxunariqtrade.com
@@ -194229,6 +194260,7 @@ tmstc.tmsmedia.io
 tmstrack.com
 tmtrck.com
 log.tmtreader.com
+tmusveurfrmgj.online
 tmwbszn.icu
 tmwktecsqmsrl.site
 tmwzkukvxwdzl.website
@@ -195727,6 +195759,7 @@ shaker.toz24.com
 partner.tozax.cz
 partner.tozax.sk
 stape.toziimoveis.com.br
+tp-em.cc
 banner.tp24.it
 vp4159o5p5.tp2vz96fzxp47juvkl5c8v.cyou
 tp4d21qek.com
@@ -202328,6 +202361,7 @@ apps.uquote.io
 uquuusorusfnd.site
 uqvgtqnthkqgi.space
 uqwaeymuxdghe.website
+uqwalfgltohug.com
 a8cventry.uqwimax.jp
 uqxtyjclokxex.website
 uqz.com
@@ -209847,6 +209881,7 @@ w0zk4pw7an.com
 gadse.w1.at
 w13mk6.ru
 6who4to62x56k6.w16flzftb66fmilzr1y7b.cyou
+w1fky.com
 w1irjtvdt4.com
 nhf1oe587v3l.w1ptgymrqpkqq1.cyou
 w1statistics.info
@@ -212814,6 +212849,7 @@ wfmgreedrggdb.website
 wfmrtmyjuhzrx.site
 srepdata.wfmynews2.com
 ywrcqa.wfmynews2.com
+wfpinwale.com
 wfqthmjtebdbc.website
 wfrglsvwclwqp.space
 wfsczypfjnova.online
@@ -215925,6 +215961,7 @@ wuzbhjpvsf.com
 wv26d.cn
 wvcszlshddpni.site
 wvdkbuoimnxyu.site
+wvdme.com
 wvepppysvo.com
 7.wveylhgybnc2679f.cyou
 wvhba6470p.com
@@ -216713,6 +216750,7 @@ xenvor-pulse.shop
 xepaijcfgvzje.online
 xepluwsaisxgi.website
 xeqoris.net
+xequdtvtefuzy.space
 gtm.xequematenem.com.br
 xera.pro
 xerarchalders.qpon
@@ -221397,6 +221435,7 @@ zduskykoxzasu.site
 zduwgpvfgvhqm.space
 zduwvutxoai.com
 zdv.life
+zdvijminlgonk.online
 zdybhgdlpashv.website
 zdynppqtiqilb.website
 zdyppmsczfvyu.website
