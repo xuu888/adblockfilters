@@ -1,8 +1,9 @@
 name: Update Filters
-on: 
+
+on:
   workflow_dispatch:
   schedule:
-  - cron: 0 */8 * * *
+    - cron: 0 */8 * * *
 
 env:
   TZ: Asia/Shanghai
@@ -11,12 +12,12 @@ env:
 
 jobs:
   Update_Filters:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v7
-      
+
       - name: Checkout domain-list-community
         uses: actions/checkout@v7
         with:
@@ -27,11 +28,16 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.14'
-      
+
       - name: Setup Go
         uses: actions/setup-go@v7
         with:
           go-version-file: domain-list-community/go.mod
+          cache-dependency-path: domain-list-community/go.sum
+
+      - name: Download Go dependencies
+        working-directory: domain-list-community
+        run: go mod download
 
       - name: Install Dependencies
         run: |
@@ -57,7 +63,7 @@ jobs:
           ./sing-box-${{env.SINGBOX_VERSION}}-linux-amd64/sing-box rule-set compile --output rules/adblocksingbox.srs     rules/adblocksingbox.json
           ./sing-box-${{env.SINGBOX_VERSION}}-linux-amd64/sing-box rule-set compile --output rules/adblocksingboxlite.srs rules/adblocksingboxlite.json
           rm -rf sing-box*
-      
+
       - name: Compile mihomo filters
         run: |
           wget https://github.com/MetaCubeX/mihomo/releases/download/v${{env.MIHOMO_VERSION}}/mihomo-linux-amd64-v${{env.MIHOMO_VERSION}}.gz
@@ -66,7 +72,7 @@ jobs:
           ./mihomo-linux-amd64-v${{env.MIHOMO_VERSION}} convert-ruleset domain yaml rules/adblockmihomo.yaml     rules/adblockmihomo.mrs
           ./mihomo-linux-amd64-v${{env.MIHOMO_VERSION}} convert-ruleset domain yaml rules/adblockmihomolite.yaml rules/adblockmihomolite.mrs
           rm -rf mihomo*
-      
+
       - name: Compile v2ray/xray filters
         run: |
           mkdir -p domain-list-community/adblock
@@ -82,20 +88,20 @@ jobs:
           cd ..
           cp domain-list-community/dlc.dat rules/adblockv2raylite.dat
           rm -rf domain-list-community
-      
+
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: ${{ steps.update.outputs.message }}
-  
+
   Refresh_CDN:
     needs: [ Update_Filters ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v6
-      
+        uses: actions/checkout@v7
+
       - name: Setup Python 3.14
         uses: actions/setup-python@v6
         with:
@@ -105,14 +111,14 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -U tld IPy dnspython httpx loguru
-      
+
       - name: Refsh CDN Cache
         run: |
           python refreshcdn.py
 
   Delete_Workflow_Runs:
     needs: [ Refresh_CDN ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Delete workflow runs
