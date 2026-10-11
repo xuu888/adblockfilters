@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20261011131451
-  # Last modified: 2026/10/11 13:14:51
-  # Blocked domains: 5250
+  # Version: 20261011225024
+  # Last modified: 2026/10/11 22:50:24
+  # Blocked domains: 5249
   #
   - '+.kwflvcdn.000dn.com'
   - '+.img.0279.net'
@@ -474,7 +474,6 @@ payload:
   - '+.statscollector-1-north-america.agora.io'
   - '+.statscollector-1-south-america.agora.io'
   - '+.webcollector-rtm.agora.io'
-  - '+.rest-argus-ad.agoralab.co'
   - '+.ai-kit.cn'
   - '+.brc.aigrammar.net'
   - '+.brc2.aigrammar.net'
@@ -801,6 +800,7 @@ payload:
   - '+.miao.baidu.com'
   - '+.miaowu.baidu.com'
   - '+.mipengine.baidu.com'
+  - '+.mo.baidu.com'
   - '+.mobads.baidu.com'
   - '+.mobads-logs.baidu.com'
   - '+.mountain.zhidao.baidu.com'
@@ -1123,6 +1123,7 @@ payload:
   - '+.log-api.cli.im'
   - '+.bd1.click.com.cn'
   - '+.clicki.cn'
+  - '+.7xi9g1.com1.z0.glb.clouddn.com'
   - '+.bkt.clouddn.com'
   - '+.advertise.cloudlinks.cn'
   - '+.log.cmbchina.com'
@@ -1364,7 +1365,6 @@ payload:
   - '+.app-log.dewu.com'
   - '+.dexinyi.cn'
   - '+.dfi09181kq.com'
-  - '+.dgrj.com.cn'
   - '+.d.dgzj.com'
   - '+.dh5t3pyb6r.com'
   - '+.d1.dhgate.com'
@@ -1445,7 +1445,6 @@ payload:
   - '+.dotcounter.douyutv.com'
   - '+.dpjzzgw.cn'
   - '+.drdwy.com'
-  - '+.sentry.dreambig.work'
   - '+.drivethelife.com'
   - '+.dspunion.com'
   - '+.analytics.dsyqt.com'
@@ -1771,7 +1770,6 @@ payload:
   - '+.sdk-cache.video.ptqy.gitv.tv'
   - '+.sdk.ptqy.gitv.tv'
   - '+.static.ptqy.gitv.tv'
-  - '+.t7z.cupid.ptqy.gitv.tv'
   - '+.time.video.ptqy.gitv.tv'
   - '+.50m.gkcyc.com'
   - '+.gl0r6d2uyy.com'
@@ -2892,6 +2890,7 @@ payload:
   - '+.mindmanager.cn'
   - '+.mindmapper.cc'
   - '+.playable-stats.mindworks-creative.com'
+  - '+.ad.mingruidata.com'
   - '+.mintegral.com'
   - '+.insight.mintel.com'
   - '+.wm.mipcdn.com'
@@ -4099,7 +4098,6 @@ payload:
   - '+.thinkingdata.cn'
   - '+.trk.thomas-pump.cn'
   - '+.trail.thomsonreuters.cn'
-  - '+.ad.thsi.cn'
   - '+.tracking.mail.ti.com.cn'
   - '+.tianjimedia.com'
   - '+.tianmidian.com'
@@ -4703,6 +4701,7 @@ payload:
   - '+.analytics.xdiarys.com'
   - '+.stat.xdplt.com'
   - '+.xdrig.com'
+  - '+.mon.ad.xelements.cn'
   - '+.v.ad.xelements.cn'
   - '+.xerhibx.cn'
   - '+.dt.xfyun.cn'

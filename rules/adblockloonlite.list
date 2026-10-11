@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/11 13:14:51
-#!support=5250
+#!date=2026/10/11 22:50:24
+#!support=5249
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -477,7 +477,6 @@ DOMAIN-SUFFIX,statscollector-1-europe.agora.io
 DOMAIN-SUFFIX,statscollector-1-north-america.agora.io
 DOMAIN-SUFFIX,statscollector-1-south-america.agora.io
 DOMAIN-SUFFIX,webcollector-rtm.agora.io
-DOMAIN-SUFFIX,rest-argus-ad.agoralab.co
 DOMAIN-SUFFIX,ai-kit.cn
 DOMAIN-SUFFIX,brc.aigrammar.net
 DOMAIN-SUFFIX,brc2.aigrammar.net
@@ -804,6 +803,7 @@ DOMAIN-SUFFIX,m1.baidu.com
 DOMAIN-SUFFIX,miao.baidu.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,mipengine.baidu.com
+DOMAIN-SUFFIX,mo.baidu.com
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mountain.zhidao.baidu.com
@@ -1126,6 +1126,7 @@ DOMAIN-SUFFIX,clarins.com.cn
 DOMAIN-SUFFIX,log-api.cli.im
 DOMAIN-SUFFIX,bd1.click.com.cn
 DOMAIN-SUFFIX,clicki.cn
+DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,bkt.clouddn.com
 DOMAIN-SUFFIX,advertise.cloudlinks.cn
 DOMAIN-SUFFIX,log.cmbchina.com
@@ -1367,7 +1368,6 @@ DOMAIN-SUFFIX,api.dewmobile.net
 DOMAIN-SUFFIX,app-log.dewu.com
 DOMAIN-SUFFIX,dexinyi.cn
 DOMAIN-SUFFIX,dfi09181kq.com
-DOMAIN-SUFFIX,dgrj.com.cn
 DOMAIN-SUFFIX,d.dgzj.com
 DOMAIN-SUFFIX,dh5t3pyb6r.com
 DOMAIN-SUFFIX,d1.dhgate.com
@@ -1448,7 +1448,6 @@ DOMAIN-SUFFIX,stun1.douyucdn.cn
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,dpjzzgw.cn
 DOMAIN-SUFFIX,drdwy.com
-DOMAIN-SUFFIX,sentry.dreambig.work
 DOMAIN-SUFFIX,drivethelife.com
 DOMAIN-SUFFIX,dspunion.com
 DOMAIN-SUFFIX,analytics.dsyqt.com
@@ -1774,7 +1773,6 @@ DOMAIN-SUFFIX,puma-api.ptqy.gitv.tv
 DOMAIN-SUFFIX,sdk-cache.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,sdk.ptqy.gitv.tv
 DOMAIN-SUFFIX,static.ptqy.gitv.tv
-DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
 DOMAIN-SUFFIX,time.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,50m.gkcyc.com
 DOMAIN-SUFFIX,gl0r6d2uyy.com
@@ -2895,6 +2893,7 @@ DOMAIN-SUFFIX,trk.miltonroy.com.cn
 DOMAIN-SUFFIX,mindmanager.cn
 DOMAIN-SUFFIX,mindmapper.cc
 DOMAIN-SUFFIX,playable-stats.mindworks-creative.com
+DOMAIN-SUFFIX,ad.mingruidata.com
 DOMAIN-SUFFIX,mintegral.com
 DOMAIN-SUFFIX,insight.mintel.com
 DOMAIN-SUFFIX,wm.mipcdn.com
@@ -4102,7 +4101,6 @@ DOMAIN-SUFFIX,analytics.thinkingcloud.net
 DOMAIN-SUFFIX,thinkingdata.cn
 DOMAIN-SUFFIX,trk.thomas-pump.cn
 DOMAIN-SUFFIX,trail.thomsonreuters.cn
-DOMAIN-SUFFIX,ad.thsi.cn
 DOMAIN-SUFFIX,tracking.mail.ti.com.cn
 DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,tianmidian.com
@@ -4706,6 +4704,7 @@ DOMAIN-SUFFIX,zio.xcar.com.cn
 DOMAIN-SUFFIX,analytics.xdiarys.com
 DOMAIN-SUFFIX,stat.xdplt.com
 DOMAIN-SUFFIX,xdrig.com
+DOMAIN-SUFFIX,mon.ad.xelements.cn
 DOMAIN-SUFFIX,v.ad.xelements.cn
 DOMAIN-SUFFIX,xerhibx.cn
 DOMAIN-SUFFIX,dt.xfyun.cn

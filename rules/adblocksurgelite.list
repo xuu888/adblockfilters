@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/11 13:14:51
-#!support=5250
+#!date=2026/10/11 22:50:24
+#!support=5249
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -480,7 +480,6 @@
 .statscollector-1-north-america.agora.io
 .statscollector-1-south-america.agora.io
 .webcollector-rtm.agora.io
-.rest-argus-ad.agoralab.co
 .ai-kit.cn
 .brc.aigrammar.net
 .brc2.aigrammar.net
@@ -807,6 +806,7 @@
 .miao.baidu.com
 .miaowu.baidu.com
 .mipengine.baidu.com
+.mo.baidu.com
 .mobads.baidu.com
 .mobads-logs.baidu.com
 .mountain.zhidao.baidu.com
@@ -1129,6 +1129,7 @@
 .log-api.cli.im
 .bd1.click.com.cn
 .clicki.cn
+.7xi9g1.com1.z0.glb.clouddn.com
 .bkt.clouddn.com
 .advertise.cloudlinks.cn
 .log.cmbchina.com
@@ -1370,7 +1371,6 @@
 .app-log.dewu.com
 .dexinyi.cn
 .dfi09181kq.com
-.dgrj.com.cn
 .d.dgzj.com
 .dh5t3pyb6r.com
 .d1.dhgate.com
@@ -1451,7 +1451,6 @@
 .dotcounter.douyutv.com
 .dpjzzgw.cn
 .drdwy.com
-.sentry.dreambig.work
 .drivethelife.com
 .dspunion.com
 .analytics.dsyqt.com
@@ -1777,7 +1776,6 @@
 .sdk-cache.video.ptqy.gitv.tv
 .sdk.ptqy.gitv.tv
 .static.ptqy.gitv.tv
-.t7z.cupid.ptqy.gitv.tv
 .time.video.ptqy.gitv.tv
 .50m.gkcyc.com
 .gl0r6d2uyy.com
@@ -2898,6 +2896,7 @@
 .mindmanager.cn
 .mindmapper.cc
 .playable-stats.mindworks-creative.com
+.ad.mingruidata.com
 .mintegral.com
 .insight.mintel.com
 .wm.mipcdn.com
@@ -4105,7 +4104,6 @@
 .thinkingdata.cn
 .trk.thomas-pump.cn
 .trail.thomsonreuters.cn
-.ad.thsi.cn
 .tracking.mail.ti.com.cn
 .tianjimedia.com
 .tianmidian.com
@@ -4709,6 +4707,7 @@
 .analytics.xdiarys.com
 .stat.xdplt.com
 .xdrig.com
+.mon.ad.xelements.cn
 .v.ad.xelements.cn
 .xerhibx.cn
 .dt.xfyun.cn
