@@ -10,7 +10,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/12 13:27:50
+#!date=2026/10/13 01:40:13
 #!support=5249
 #!proxy-select=REJECT
 #
@@ -480,6 +480,7 @@
 .statscollector-1-north-america.agora.io
 .statscollector-1-south-america.agora.io
 .webcollector-rtm.agora.io
+.rest-argus-ad.agoralab.co
 .ai-kit.cn
 .brc.aigrammar.net
 .brc2.aigrammar.net
@@ -1266,7 +1267,6 @@
 .t.dangdang.com
 .daoyoudao.com
 .daraz.com
-.marketing.net.daraz.lk
 .net.daraz.pk
 .console.data4.net
 .gate.datacaciques.com
@@ -1371,6 +1371,7 @@
 .app-log.dewu.com
 .dexinyi.cn
 .dfi09181kq.com
+.dgrj.com.cn
 .d.dgzj.com
 .dh5t3pyb6r.com
 .d1.dhgate.com
@@ -2031,7 +2032,6 @@
 .ads-drcn.platform.hihonorcloud.com
 .ads-dre.platform.hihonorcloud.com
 .ads-drru.platform.hihonorcloud.com
-.grs.hihonorcloud.com
 .honorsearch-dra.hiboard.hihonorcloud.com
 .honorsearch-drcn.hiboard.hihonorcloud.com
 .honorsearch-dre.hiboard.hihonorcloud.com

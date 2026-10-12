@@ -7,7 +7,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/12 13:27:50
+#!date=2026/10/13 01:40:13
 #!support=5249
 #!proxy-select=REJECT
 #
@@ -477,6 +477,7 @@ DOMAIN-SUFFIX,statscollector-1-europe.agora.io
 DOMAIN-SUFFIX,statscollector-1-north-america.agora.io
 DOMAIN-SUFFIX,statscollector-1-south-america.agora.io
 DOMAIN-SUFFIX,webcollector-rtm.agora.io
+DOMAIN-SUFFIX,rest-argus-ad.agoralab.co
 DOMAIN-SUFFIX,ai-kit.cn
 DOMAIN-SUFFIX,brc.aigrammar.net
 DOMAIN-SUFFIX,brc2.aigrammar.net
@@ -1263,7 +1264,6 @@ DOMAIN-SUFFIX,schprompt.dangdang.com
 DOMAIN-SUFFIX,t.dangdang.com
 DOMAIN-SUFFIX,daoyoudao.com
 DOMAIN-SUFFIX,daraz.com
-DOMAIN-SUFFIX,marketing.net.daraz.lk
 DOMAIN-SUFFIX,net.daraz.pk
 DOMAIN-SUFFIX,console.data4.net
 DOMAIN-SUFFIX,gate.datacaciques.com
@@ -1368,6 +1368,7 @@ DOMAIN-SUFFIX,api.dewmobile.net
 DOMAIN-SUFFIX,app-log.dewu.com
 DOMAIN-SUFFIX,dexinyi.cn
 DOMAIN-SUFFIX,dfi09181kq.com
+DOMAIN-SUFFIX,dgrj.com.cn
 DOMAIN-SUFFIX,d.dgzj.com
 DOMAIN-SUFFIX,dh5t3pyb6r.com
 DOMAIN-SUFFIX,d1.dhgate.com
@@ -2028,7 +2029,6 @@ DOMAIN-SUFFIX,ads-dra.platform.hihonorcloud.com
 DOMAIN-SUFFIX,ads-drcn.platform.hihonorcloud.com
 DOMAIN-SUFFIX,ads-dre.platform.hihonorcloud.com
 DOMAIN-SUFFIX,ads-drru.platform.hihonorcloud.com
-DOMAIN-SUFFIX,grs.hihonorcloud.com
 DOMAIN-SUFFIX,honorsearch-dra.hiboard.hihonorcloud.com
 DOMAIN-SUFFIX,honorsearch-drcn.hiboard.hihonorcloud.com
 DOMAIN-SUFFIX,honorsearch-dre.hiboard.hihonorcloud.com
