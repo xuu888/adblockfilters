@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261013142552
-# Last modified: 2026/10/13 14:25:52
-# Blocked domains: 5249
+# Version: 20261013234904
+# Last modified: 2026/10/13 23:49:04
+# Blocked domains: 5238
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -37,7 +37,6 @@ ad.12306.cn
 123cha.com
 bdad.123pan.cn
 ent1.12584.cn
-126.cn
 analytics.126.com
 ir.mail.126.com
 ads.music.126.net
@@ -243,7 +242,6 @@ ad-files.4pyun.com
 51.la
 511a.cn
 51240.com
-5166.info
 amradmin.5173.com
 518ad.com
 log.51changdu.com
@@ -663,7 +661,6 @@ a.armystar.com
 trk.arozone.cn
 arpun.com
 aspwg.cn
-asyn.cn
 aiseet.aa.atianqi.com
 atpanel.com
 attribuly.com
@@ -800,7 +797,6 @@ m1.baidu.com
 miao.baidu.com
 miaowu.baidu.com
 mipengine.baidu.com
-mo.baidu.com
 mobads.baidu.com
 mobads-logs.baidu.com
 mountain.zhidao.baidu.com
@@ -1021,7 +1017,6 @@ cbh.hl.cn
 cbhzxctgm.com
 adv.ccb.com
 ad.ccement.com
-btrace.ysp.cctv.cn
 mtrace.ysp.cctv.cn
 ad.cctv.com
 httpdns.cctv.com
@@ -1364,7 +1359,6 @@ api.dewmobile.net
 app-log.dewu.com
 dexinyi.cn
 dfi09181kq.com
-dgrj.com.cn
 d.dgzj.com
 dh5t3pyb6r.com
 d1.dhgate.com
@@ -1445,6 +1439,7 @@ stun1.douyucdn.cn
 dotcounter.douyutv.com
 dpjzzgw.cn
 drdwy.com
+sentry.dreambig.work
 drivethelife.com
 dspunion.com
 analytics.dsyqt.com
@@ -1649,7 +1644,6 @@ t-flow.flyme.cn
 cfgc.flysleep.cn
 log-auth.flysleep.cn
 upc.flysleep.cn
-flyye.cn
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 bdu.focus.cn
@@ -1770,6 +1764,7 @@ puma-api.ptqy.gitv.tv
 sdk-cache.video.ptqy.gitv.tv
 sdk.ptqy.gitv.tv
 static.ptqy.gitv.tv
+t7z.cupid.ptqy.gitv.tv
 time.video.ptqy.gitv.tv
 50m.gkcyc.com
 gl0r6d2uyy.com
@@ -1889,7 +1884,6 @@ res.gwifi.com.cn
 pvsa.gxfugy.cn
 gxgbvmg.cn
 gxhzv.cn
-gxtvu.com.cn
 gz-data.com
 gzcl999.com
 gzfzcj.cn
@@ -2438,7 +2432,6 @@ jwddpvu.cn
 jxdown.com
 jy135.com
 jygdb.com
-jyhengyi.cn
 prom-sdkv2.jysper.net
 jzdwl4.cn
 k2n0f.cn
@@ -2490,7 +2483,6 @@ adsmart.konka.com
 log.kookapp.cn
 sdkapi.kookong.com
 koowo.com
-kouclo.com
 a.koudai.com
 b.kouke5.com
 kqg8jh8rk.com
@@ -3663,7 +3655,6 @@ sbird.xyz
 sbldw.cn
 smetrics.schindler.cn
 scjpqut.cn
-sckexing.cn
 statscollector.sd-rtn.com
 sd6hon.cn
 sdhuawen.cn
@@ -3915,7 +3906,6 @@ api.sve.cc
 api.taboola.sve.cc
 sxk9m8x.cn
 sanalytics.sydneyuniversity.cn
-sydyqg.cn
 symaa.cn
 synacast.com
 syr66.com.cn
@@ -4097,6 +4087,7 @@ analytics.thinkingcloud.net
 thinkingdata.cn
 trk.thomas-pump.cn
 trail.thomsonreuters.cn
+ad.thsi.cn
 tracking.mail.ti.com.cn
 tianjimedia.com
 tianmidian.com
@@ -4176,6 +4167,7 @@ analysis.tratao.com
 ta.trs.cn
 trustutn.org
 ts166.net
+ttdbh.com
 www.ttyyuuoo.com
 realtime-logger.production-public.tubi.io
 tudou.com
@@ -4201,7 +4193,6 @@ livetech.shopee.com.br.txlivecdn.com
 livetech.shopee.vn.txlivecdn.com
 txscn.cn
 m.txtxr.com
-ty.cn
 tylerfoster.shop
 u7u9.com
 u88.cn
@@ -4698,9 +4689,9 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
 analytics.xdiarys.com
+analytics2.xdiarys.com
 stat.xdplt.com
 xdrig.com
-mon.ad.xelements.cn
 v.ad.xelements.cn
 xerhibx.cn
 dt.xfyun.cn
@@ -4909,7 +4900,6 @@ ycsshb.cn
 yd126.com
 ydgsvls.cn
 ydmob.com
-adpublish.ydstatic.com
 oimagea2.ydstatic.com
 bdm.ye-su.cn
 ir.mail.yeah.net
@@ -5101,7 +5091,6 @@ api-analytics-cn3.zepp.com
 api-analytics-de.zepp.com
 api-analytics-us.zepp.com
 api-analytics-us3.zepp.com
-zggxkj.com.cn
 zgisp.net
 yin1.zgpingshu.com
 push.zhangyue.com
