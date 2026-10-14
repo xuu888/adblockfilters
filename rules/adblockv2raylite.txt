@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261014050807
-# Last modified: 2026/10/14 05:08:07
-# Blocked domains: 5238
+# Version: 20261014122708
+# Last modified: 2026/10/14 12:27:08
+# Blocked domains: 5235
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -1553,7 +1553,6 @@ esudrp.cn @ads
 ethan.wang @ads
 etoolads.cn @ads
 etwun.com @ads
-euuh.cn @ads
 duologinsupersdk.ewan.cn @ads
 a.exam58.com @ads
 drovs.excelliance.cn @ads
@@ -3051,7 +3050,6 @@ networkbench.com @ads
 t.home.news.cn @ads
 al.newxue.com @ads
 livechat.nextop.com @ads
-nfksjkfs.com @ads
 ng2y405w3y.com @ads
 nh3q4ucdlb.com @ads
 ggdm1.nhaidu.net @ads
@@ -4524,7 +4522,6 @@ zasc-vcode-api.vivoglobal.com @ads
 zasc-vcode-od.vivoglobal.com @ads
 zasc-vcode-or.vivoglobal.com @ads
 vkoq4kyzmj.com @ads
-vksy.cn @ads
 vlgkotr.cn @ads
 vlion.cn @ads
 vmj428qvi4.com @ads

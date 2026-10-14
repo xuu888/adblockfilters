@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20261014050807
-# Last modified: 2026/10/14 05:08:07
-# Blocked domains: 5238
+# Version: 20261014122708
+# Last modified: 2026/10/14 12:27:08
+# Blocked domains: 5235
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1568,7 +1568,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ethan.wang
 0.0.0.0	etoolads.cn
 0.0.0.0	etwun.com
-0.0.0.0	euuh.cn
 0.0.0.0	duologinsupersdk.ewan.cn
 0.0.0.0	a.exam58.com
 0.0.0.0	drovs.excelliance.cn
@@ -3066,7 +3065,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	t.home.news.cn
 0.0.0.0	al.newxue.com
 0.0.0.0	livechat.nextop.com
-0.0.0.0	nfksjkfs.com
 0.0.0.0	ng2y405w3y.com
 0.0.0.0	nh3q4ucdlb.com
 0.0.0.0	ggdm1.nhaidu.net
@@ -4539,7 +4537,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zasc-vcode-od.vivoglobal.com
 0.0.0.0	zasc-vcode-or.vivoglobal.com
 0.0.0.0	vkoq4kyzmj.com
-0.0.0.0	vksy.cn
 0.0.0.0	vlgkotr.cn
 0.0.0.0	vlion.cn
 0.0.0.0	vmj428qvi4.com
