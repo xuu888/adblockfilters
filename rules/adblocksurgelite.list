@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/14 12:27:08
-#!support=5235
+#!date=2026/10/14 21:32:36
+#!support=5218
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -182,7 +182,6 @@
 .tf.360.cn
 .vconf.f.360.cn
 .wan.360.cn
-.wot.360.cn
 .m.yule.360.com
 .360ads.com
 .cps.360buy.com
@@ -249,6 +248,7 @@
 .51.la
 .511a.cn
 .51240.com
+.5166.info
 .amradmin.5173.com
 .518ad.com
 .log.51changdu.com
@@ -359,8 +359,6 @@
 .8k69vb6421.com
 .8le8le.com
 .8ox.cn
-.8x14khzwmi.com
-.8x5vviy4r2.com
 .web.900.la
 .new.915yzt.cn
 .9199.com
@@ -668,6 +666,7 @@
 .trk.arozone.cn
 .arpun.com
 .aspwg.cn
+.asyn.cn
 .aiseet.aa.atianqi.com
 .atpanel.com
 .attribuly.com
@@ -967,11 +966,9 @@
 .bootcss.com
 .vstat.borderlessbd.com
 .noyvyv.bosonshop.com
-.bpuvuun0xg.com
 .bs2site.at
 .bsbaswq.cn
 .bsccdn.net
-.bsyrimw.xyz
 .s.btime.com
 .btyou.com
 .bvmlt.top
@@ -1024,6 +1021,7 @@
 .cbhzxctgm.com
 .adv.ccb.com
 .ad.ccement.com
+.btrace.ysp.cctv.cn
 .mtrace.ysp.cctv.cn
 .ad.cctv.com
 .httpdns.cctv.com
@@ -1125,7 +1123,6 @@
 .log-api.cli.im
 .bd1.click.com.cn
 .clicki.cn
-.7xi9g1.com1.z0.glb.clouddn.com
 .bkt.clouddn.com
 .advertise.cloudlinks.cn
 .log.cmbchina.com
@@ -1231,7 +1228,6 @@
 .ctrmi.com
 .ads.cup.com.cn
 .cupfox.hl.cn
-.cuqpi.cn
 .cv3qb5813.com
 .sentry.cvtapi.com
 .sentry-ali.cvtapi.com
@@ -1245,7 +1241,6 @@
 .ggjs.d17.cc
 .d48paxyhx.com
 .d5092moci.com
-.d7ytrv7yxa.com
 .dabaicai.com
 .dabaoku.com
 .daccp.cn
@@ -1273,7 +1268,6 @@
 .bun1.dayi.org.cn
 .dazhantai.com
 .bdjs.daziba.cn
-.db8b41ie5.com
 .cs02-pps-drcn.dbankcdn.com
 .grs.dbankcloud.asia
 .adx-drcn.op.dbankcloud.cn
@@ -1350,7 +1344,6 @@
 .events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
-.metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 .engine.dcad01.com
 .xcx.dcad01.com
 .ddapp.cn
@@ -1365,7 +1358,7 @@
 .api.dewmobile.net
 .app-log.dewu.com
 .dexinyi.cn
-.dfi09181kq.com
+.dgrj.com.cn
 .d.dgzj.com
 .dh5t3pyb6r.com
 .d1.dhgate.com
@@ -1472,7 +1465,6 @@
 .stats.v.duowan.com
 .vupload.duowan.com
 .sentry.duozhuayu.net
-.adsmis.duxiaoman.com
 .dvtednm.cn
 .dvzk66.cn
 .untitled.dwstatic.com
@@ -1511,7 +1503,6 @@
 .easyrecoverychina.com
 .easytomessage.com
 .eblnzoq.cn
-.ebrid.cn
 .jb.ecar168.cn
 .ecudsc.cn
 .balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
@@ -1643,18 +1634,17 @@
 .flash.cn
 .flsfzr.cn
 .flstudiochina.com
-.api-flow.flyme.cn
 .bro.flyme.cn
 .t-e.flyme.cn
 .t-flow.flyme.cn
 .cfgc.flysleep.cn
 .log-auth.flysleep.cn
 .upc.flysleep.cn
+.flyye.cn
 .adv-sv-show.focus.cn
 .adv-sv-stat.focus.cn
 .bdu.focus.cn
 .foisonad.com
-.analytics.fontke.com
 .metrics.ford.com
 .smetrics.ford.com
 .smetrics.sandbox.ford.com
@@ -1703,7 +1693,6 @@
 .a.fxltsbl.com
 .fy14.cn
 .fynvax-ai.net
-.g15wt3ci68.com
 .g4z8712756.com
 .g5xu1dslr6.com
 .gainifyads.com
@@ -1766,7 +1755,6 @@
 .liveats-vod.video.ptqy.gitv.tv
 .msg.ptqy.gitv.tv
 .policy.video.ptqy.gitv.tv
-.puma-api.ptqy.gitv.tv
 .sdk-cache.video.ptqy.gitv.tv
 .sdk.ptqy.gitv.tv
 .static.ptqy.gitv.tv
@@ -1890,6 +1878,7 @@
 .pvsa.gxfugy.cn
 .gxgbvmg.cn
 .gxhzv.cn
+.gxtvu.com.cn
 .gz-data.com
 .gzcl999.com
 .gzfzcj.cn
@@ -1914,7 +1903,6 @@
 .2.haoxue360.com
 .haozhuangji.com
 .download.haozip.com
-.log.dc.cn.happyelements.com
 .hapying.com
 .hashnest.com
 .a.hbf23.cn
@@ -2063,7 +2051,6 @@
 .hjpqt.cn
 .hkkeafj.cn
 .live-api.hktvmall.com
-.hlj10031ip.com
 .hlstlyy.com
 .hly.com
 .ad.new.oe.hmgreat.com
@@ -2164,7 +2151,6 @@
 .metric.huya.com
 .qn-fileserverpcdn.cdn.huya.com
 .qn-hydlpcdn.cdn.huya.com
-.stat.wup.huya.com
 .statwup.huya.com
 .udblog.huya.com
 .va.huya.com
@@ -2382,7 +2368,6 @@
 .jesgoo.com
 .promotion-quicker.jftechsoft.com
 .eventlog-aws.jftechws.com
-.jgid.cn
 .jhzfwl.cn
 .wj.jiancai365.cn
 .ads.jianchiapp.com
@@ -2407,7 +2392,6 @@
 .jmlk.co
 .ub1.job592.com
 .yqg.jobui.com
-.joi09110pt.com
 .jollyspring.com
 .email-ap.joneslanglasalle.com.cn
 .ad.jooancloud.com
@@ -2417,7 +2401,6 @@
 .jpush.io
 .jpushoa.com
 .jrltdiu.cn
-.jrq39d1r8.com
 .jsebmcv.cn
 .jsing.net
 .jsmxkj.com
@@ -2438,6 +2421,7 @@
 .jxdown.com
 .jy135.com
 .jygdb.com
+.jyhengyi.cn
 .prom-sdkv2.jysper.net
 .jzdwl4.cn
 .k2n0f.cn
@@ -2489,6 +2473,7 @@
 .log.kookapp.cn
 .sdkapi.kookong.com
 .koowo.com
+.kouclo.com
 .a.koudai.com
 .b.kouke5.com
 .kqg8jh8rk.com
@@ -2980,7 +2965,6 @@
 .motsjnv.cn
 .motuopj.cn
 .elq.mouser.cn
-.mrlxc51byo.com
 .srtb.msn.cn
 .livewebbs2pcdn.msstatic.com
 .pp-cdnfile1pcdn.msstatic.com
@@ -3069,7 +3053,6 @@
 .down.nishuoa.com
 .njzyjy.cn
 .nkscdn.com
-.nlzyp.cn
 .noteonline-pt.shop
 .web.novogene.com
 .a.nowscore.com
@@ -3088,7 +3071,6 @@
 .anews7.nvwu.com
 .target.nxp.com.cn
 .ad-static.nxtsun.com
-.nzl09250oa.com
 .logserver.nzxcloud.cn
 .o5y2zd1lq8.com
 .o8u3n4q7fe.com
@@ -3660,6 +3642,7 @@
 .sbldw.cn
 .smetrics.schindler.cn
 .scjpqut.cn
+.sckexing.cn
 .statscollector.sd-rtn.com
 .sd6hon.cn
 .sdhuawen.cn
@@ -3911,6 +3894,7 @@
 .api.taboola.sve.cc
 .sxk9m8x.cn
 .sanalytics.sydneyuniversity.cn
+.sydyqg.cn
 .symaa.cn
 .synacast.com
 .syr66.com.cn
@@ -3967,7 +3951,6 @@
 .adashx4yt.m.taobao.com
 .adashxgc.ut.taobao.com
 .ae-alimelog.taobao.com
-.ai.taobao.com
 .ai.m.taobao.com
 .alimelog.taobao.com
 .amdcopen.m.taobao.com
@@ -4198,6 +4181,7 @@
 .livetech.shopee.vn.txlivecdn.com
 .txscn.cn
 .m.txtxr.com
+.ty.cn
 .tylerfoster.shop
 .u7u9.com
 .u88.cn
@@ -4297,7 +4281,6 @@
 .uxcnhsf.cn
 .uxjw.cn
 .v2.uyan.cc
-.uybq.cn
 .uyfv.cn
 .uyunad.com
 .uzzf.com
@@ -4904,6 +4887,7 @@
 .yd126.com
 .ydgsvls.cn
 .ydmob.com
+.adpublish.ydstatic.com
 .oimagea2.ydstatic.com
 .bdm.ye-su.cn
 .ir.mail.yeah.net
@@ -5033,8 +5017,6 @@
 .httpdns.yunxindns.com
 .statistic-overseas.yunxinfw.com
 .yunxish.com
-.yur09130og.com
-.yur09140og.com
 .yvdb.cn
 .yw800.com.cn
 .ywkkmze.cn
@@ -5095,6 +5077,7 @@
 .api-analytics-de.zepp.com
 .api-analytics-us.zepp.com
 .api-analytics-us3.zepp.com
+.zggxkj.com.cn
 .zgisp.net
 .yin1.zgpingshu.com
 .push.zhangyue.com
